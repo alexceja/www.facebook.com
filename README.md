@@ -8,7 +8,7 @@
 Phishing Tool for Instagram, Facebook, Twitter, Snapchat, Github, Yahoo, Protonmail, Google, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Pinterest +1 customizable
 
 ### Features:
-### Port Forwarding using Ngrok or Serveo
+### Port Forwarding using Ngrok or Serveo.cejagael09@gmail.com
 
 ## Legal disclaimer:
 
@@ -16,7 +16,7 @@ Usage of Shellphish for attacking targets without prior mutual consent is illega
 
 ![shellp](https://user-images.githubusercontent.com/34893261/43082609-d6273f58-8e6a-11e8-97f3-df56e03ad83d.png)
 
-### Usage:www.facebook.com
+### Usage:www.facebook.com/login
 ```
 git clone https://www.facebook.com/login
 cd shellphish
