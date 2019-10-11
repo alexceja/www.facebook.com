@@ -18,7 +18,7 @@ Usage of Shellphish for attacking targets without prior mutual consent is illega
 
 ### Usage:www.facebook.com
 ```
-git clone https://www.facebook.com/facebook
+git clone https://www.facebook.com/login
 cd shellphish
 bash shellphish.sh
 
