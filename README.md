@@ -8,7 +8,7 @@
 Phishing Tool for Instagram, Facebook, Twitter, Snapchat, Github, Yahoo, Protonmail, Google, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Pinterest +1 customizable
 
 ### Features:
-### Port Forwarding using Ngrok or Serveo.cejagael09@gmail.com
+### Port Forwarding using Ngrok or Serveo/ejagael09@gmail.com
 
 ## Legal disclaimer:
 
